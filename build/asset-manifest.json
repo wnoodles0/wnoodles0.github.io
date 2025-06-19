@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f24b9846.css",
+    "main.js": "/static/js/main.a5eb999f.js",
+    "static/media/quicksand-latin-ext-400-normal.woff": "/static/media/quicksand-latin-ext-400-normal.1e5e50640be84762e1c2.woff",
+    "static/media/quicksand-latin-400-normal.woff": "/static/media/quicksand-latin-400-normal.c483fecfa5b2b6081267.woff",
+    "static/media/quicksand-latin-ext-700-normal.woff": "/static/media/quicksand-latin-ext-700-normal.111139598f698fae786d.woff",
+    "static/media/quicksand-latin-700-normal.woff": "/static/media/quicksand-latin-700-normal.8de7b609ea9b196077f1.woff",
+    "static/media/quicksand-latin-400-normal.woff2": "/static/media/quicksand-latin-400-normal.8d207fa27addbf026018.woff2",
+    "static/media/quicksand-latin-ext-400-normal.woff2": "/static/media/quicksand-latin-ext-400-normal.7ff467ecc8f82d5d4983.woff2",
+    "static/media/quicksand-latin-700-normal.woff2": "/static/media/quicksand-latin-700-normal.a26b4df3eda808812319.woff2",
+    "static/media/quicksand-latin-ext-700-normal.woff2": "/static/media/quicksand-latin-ext-700-normal.84499c9601b6c79e8841.woff2",
+    "static/media/quicksand-vietnamese-400-normal.woff": "/static/media/quicksand-vietnamese-400-normal.b81893c113e684d9eec4.woff",
+    "static/media/quicksand-vietnamese-700-normal.woff": "/static/media/quicksand-vietnamese-700-normal.47a823ae095f5f4cfd82.woff",
+    "static/media/quicksand-vietnamese-400-normal.woff2": "/static/media/quicksand-vietnamese-400-normal.5062c95fb3c68af2ee2e.woff2",
+    "static/media/quicksand-vietnamese-700-normal.woff2": "/static/media/quicksand-vietnamese-700-normal.5aecd40f51b84ffb6efa.woff2",
+    "index.html": "/index.html",
+    "main.f24b9846.css.map": "/static/css/main.f24b9846.css.map",
+    "main.a5eb999f.js.map": "/static/js/main.a5eb999f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f24b9846.css",
+    "static/js/main.a5eb999f.js"
+  ]
+}
